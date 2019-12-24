@@ -1,2 +1,2 @@
 # learning_tensorflow_2.0
-Following examples from de Learn Tensorflow 2.0 2020 book from Apress
+Following examples from the __Learn Tensorflow 2.0__ 2020 book from Apress
